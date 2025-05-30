@@ -1,0 +1,7 @@
+<?php
+
+echo "¡Hola";
+
+
+phpinfo();
+?>
